@@ -1,6 +1,6 @@
 const { ensureAddressString } = require("../build/npm/dist/util");
 const {WalletLink} = require("../build/npm/dist");
-
+I
 describe("address storage tests", function() {
   it("ensureAddressString returns lowercase string", function() {
     let input = "0xFadAFCE89EA2221fa33005640Acf2C923312F2b9"
